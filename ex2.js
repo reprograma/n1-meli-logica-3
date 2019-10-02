@@ -72,7 +72,7 @@ console.log("o valor mais alto entre as somas é:", Math.max(...soma))
 // para salvar no banco de dados, primeiro, precisamos criar uma função que verifica
 // se os valores são todos do type number.
 // Caso não sejam number, a função modifica os dados para que possam ser salvos corretamente.
-// const dados = [["1", 2, 4, 5], [2, 3, "56"], [23, 23, "23"]]
+
 
 // 5 - Agora recebemos, alguns valores em string. Porém a nossa tabela no banco só aceita
 // valores lowercase. Crie uma função que checa em uma array bidimensional se todas as strings
