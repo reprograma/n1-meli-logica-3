@@ -209,7 +209,8 @@ Map, filter, Reduce, forEach
 - https://medium.com/@programadriano/javascript-conhecendo-map-filter-e-reduce-ce072d8f0ec5]
 - https://clovisdasilvaneto.github.io/explorando-javascript-filter-reduce-map-every-some-e-foreach/
 
- JSON  
+__JSON (JavaScript Object Notation)__
+ -  é um modelo para armazenamento e transmissão de informações no formato texto.
 
 #### Links: 
 - W3Schools Métodos de Arrays - https://www.w3schools.com/js/js_array_methods.asp
