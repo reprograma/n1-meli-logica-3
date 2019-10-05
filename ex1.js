@@ -11,6 +11,12 @@ for (let i = 0; i < xx.length; i++) {
 // }
 
 
+// const xx = [23, 43, 63 ,73, 83, 93, 102];
+// for(let i=0; i< xx.length; i++){
+//     console.log(xx[i])
+// }
+
+
 // 2- Dada a array const doces = ['sorvete', 'pirulito', 'bombom'];
 // Adicione um novo item de sua escolha no começo dessa array.
 
@@ -24,12 +30,21 @@ for (let i = 0; i < xx.length; i++) {
 // doces.push('torta')
 // console.log(doces);
 
+<<<<<<< HEAD
 
 // //  4- Dada a array
 // // inverta a ordem dos items e log na tela : 'dance of days', 'blink182', 'linking park', 'fresno'
 const bandasEmo = ["fresno", "linkin park", "blink182", "dance of days"]
 console.log(bandasEmo.reverse())
 console.log(bandasEmo)
+
+// var bandasEmo = ['fresno', 'linkin park', 'blink182', 'dance of days'];
+// var invertido = bandasEmo.reverse();
+// console.log(invertido)
+
+=======
+>>>>>>> a32d52b008d465b4c6b55224c21f6e97dc00ef97
+
 
 // var bandasEmo = ['fresno', 'linkin park', 'blink182', 'dance of days'];
 // var invertido = bandasEmo.reverse();
@@ -75,6 +90,7 @@ console.log(bandasEmo)
 // ordene a lista .
 // const lista = [56, 89, 34, 12, 23, 55, 9];
 // lista.sort(function(a,b){return a-b});
+<<<<<<< HEAD
 // console.log(lista);
 
 
@@ -103,3 +119,6 @@ for (let i = 0; i < 5; i++) {
   arr[i] = linha
 }
 console.log(arr)
+=======
+// console.log(lista);
+>>>>>>> a32d52b008d465b4c6b55224c21f6e97dc00ef97
